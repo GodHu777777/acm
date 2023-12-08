@@ -1,0 +1,34 @@
+{
+	"ACM-model": {
+		"prefix": "acm",
+		"body": [
+		  "#include <iostream>",
+		  "#include <cstdio>",
+		  "#include<bits/stdc++.h>",
+		  "#define ll long long",
+		  "#define cy puts(\"YES\")",
+		  "#define cn puts(\"NO\")",
+		  "#define cnl puts(\"\")",
+		  "#define DEBUG_(t) cout << t << \"###DEBUG\" << endl",
+		  "#define mset(a) memset(a, 0, sizeof(a))",
+		  "#define PII pair<int, int>",
+		  "using namespace std;",
+		  "const int MAXN = ${1:100000} + 5;",
+		  "\n\n",
+		  "void solve()",
+		  "{",
+		  "",
+		  "}",
+		  "\n$2\nint main()\t$0",
+		  "{",
+		  "\tios::sync_with_stdio(false);",
+		  "\tcin.tie(0);",
+		  "\tint t;",
+		  "\tcin >> t;",
+		  "\twhile(t--) solve();",
+		  "\treturn 0;",
+		  "}"
+	  ],
+	  "description": "init acm model"
+	},
+}
